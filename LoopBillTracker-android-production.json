@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.0",
-  "minSupportedVersion": "1.0.0",
+  "latestVersion": "0.1.4",
+  "minSupportedVersion": "0.1.0",
   "forceUpdate": false,
-  "updateUrl": "https://play.google.com/apps/testing/com.kaiqstudio.loopbilltracker"
+  "updateUrl": "https://play.google.com/store/apps/details?id=com.kaiqstudio.loopbilltracker"
 }
